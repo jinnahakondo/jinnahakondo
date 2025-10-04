@@ -18,3 +18,6 @@ Skills:  REACT / JS / HTML / CSS/Tailwind
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jinnahakondo)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnahakondo&show_icons=true)
+
+
