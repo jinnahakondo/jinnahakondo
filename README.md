@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2685AE&width=435&lines=Hello%2C+There!;I+am+Mohammad+Jinnah...)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2685AE&width=435&lines=Hello%2C+There!;I+am+Mohammad+Jinnah...)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
