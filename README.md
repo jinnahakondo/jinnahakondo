@@ -1,6 +1,6 @@
-### Hi there 👋, I'm 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2685AE&width=435&lines=Hello%2C+There!;I+am+Mohammad+Jinnah...;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2685AE&width=435&lines=Hello%2C+There!;I+am+Mohammad+Jinnah...;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 Hello, this is Robiul Islam Jinnah. I am a full stack developer in Bangladesh.Contact me facebook.com/jinnahakondo.
 
