@@ -11,13 +11,13 @@
 <!-- ================== Current Overview ================== -->
 ### 🔹 Current Overview
 🔭 I’m working on – Programming Hero projects.  
-<br/>
+
 🌱 I’m exploring – Next.js and modern web technologies. 
-<br/>
+
 👯 I’m looking to – Collaborate on open source web development projects. 
-<br/>
+
 🤔 I’m trying to – Help people learn web development and improve their skills.  
-<br/>
+
 ⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
 
 ---
