@@ -9,10 +9,11 @@
 
 
 <!-- ================== Current Overview ================== -->
-### 🔹 Current Overview
-🔭 I’m working on – Programming Hero projects.  
+### 🔹 Current Activities
 
-🌱 I’m exploring – Next.js and modern web technologies. 
+🌱 I am exploring **Next.js**
+
+💻 I’m working on a **tourism website**
 
 👯 I’m looking to – Collaborate on open source web development projects. 
 
@@ -20,13 +21,6 @@
 
 ⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
 
----
-
-<!-- ================== Current Activities ================== -->
-### 🔭 Current Activities
-- 🌱 Exploring **Next.js**
-- 💻 Working on a **Tourism Website**
-- 📚 Preparing for **Web Developer interviews**
 
 ---
 
