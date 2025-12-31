@@ -5,7 +5,6 @@
 
 <br>
 
-
 ---
 
 <!-- ================== About Me ================== -->
@@ -17,6 +16,15 @@ Always eager to learn new technologies and improve my skills.
 
 ---
 
+<!-- ================== Current Overview ================== -->
+### 🔹 Current Overview
+🔭 I’m working on – Programming Hero projects.  
+🌱 I’m exploring – Next.js, React, and modern web technologies.  
+👯 I’m looking to – Collaborate on open source web development projects.  
+🤔 I’m trying to – Help people learn web development and improve their skills.  
+⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
+
+---
 
 <!-- ================== Current Activities ================== -->
 ### 🔭 Current Activities
@@ -25,14 +33,13 @@ Always eager to learn new technologies and improve my skills.
 - 📚 Preparing for **Web Developer interviews**
 
 ---
-<!-- ================== GitHub Streak ================== -->
-<p >
+
+<!-- ================== GitHub Stats ================== -->
+<p>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jinnahakondo&theme=dark" />
   </a>
 </p>
-
-<br>
 
 ---
 
@@ -53,16 +60,6 @@ Always eager to learn new technologies and improve my skills.
 </p>
 
 ---
-<br/>
-
-### 🔹 Current Overview
-
-🔭 I’m working on – Programming Hero projects.  
-🌱 I’m exploring – Next.js, React, and modern web technologies.  
-👯 I’m looking to – Collaborate on open source web development projects.  
-🤔 I’m trying to – Help people learn web development and improve their skills.  
-⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
-
 
 <!-- ================== Social Links ================== -->
 ### 🔗 Connect With Me
@@ -70,16 +67,3 @@ Always eager to learn new technologies and improve my skills.
   <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | 
   <a href="https://github.com/jinnahakondo" target="_blank">GitHub</a>
 </p>
-
----
-
-<!-- ================== GitHub Stats ================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinnahakondo&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnahakondo&layout=compact&theme=dark" />
-</p>
-
-
