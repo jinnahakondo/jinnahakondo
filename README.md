@@ -53,6 +53,16 @@ Always eager to learn new technologies and improve my skills.
 </p>
 
 ---
+<br/>
+
+### 🔹 Current Overview
+
+🔭 I’m working on – Programming Hero projects.  
+🌱 I’m exploring – Next.js, React, and modern web technologies.  
+👯 I’m looking to – Collaborate on open source web development projects.  
+🤔 I’m trying to – Help people learn web development and improve their skills.  
+⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
+
 
 <!-- ================== Social Links ================== -->
 ### 🔗 Connect With Me
@@ -72,12 +82,4 @@ Always eager to learn new technologies and improve my skills.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnahakondo&layout=compact&theme=dark" />
 </p>
 
-### 🔹 Current Overview
-MD Jinnah Akondo's Dev Card
-
-🔭 I’m working on – Programming Hero projects.  
-🌱 I’m exploring – Next.js, React, and modern web technologies.  
-👯 I’m looking to – Collaborate on open source web development projects.  
-🤔 I’m trying to – Help people learn web development and improve their skills.  
-⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
 
