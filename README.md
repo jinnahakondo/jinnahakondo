@@ -7,14 +7,6 @@
 
 ---
 
-<!-- ================== About Me ================== -->
-### 👋 About Me
-I am a passionate Full Stack Web Developer from Bangladesh.  
-I love building modern, responsive, and user-friendly web applications.  
-Currently focusing on JavaScript, React, and Next.js.  
-Always eager to learn new technologies and improve my skills.
-
----
 
 <!-- ================== Current Overview ================== -->
 ### 🔹 Current Overview
