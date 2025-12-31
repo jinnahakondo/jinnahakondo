@@ -5,18 +5,6 @@
 
 <br>
 
-<!-- ================== GitHub Streak ================== -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jinnahakondo&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<!-- ================== Name & Designation ================== -->
-<h1 align="center">MD Jinnah Akondo</h1>
-<h3 align="center">Full Stack Web Developer</h3>
 
 ---
 
@@ -29,11 +17,22 @@ Always eager to learn new technologies and improve my skills.
 
 ---
 
+
 <!-- ================== Current Activities ================== -->
 ### 🔭 Current Activities
 - 🌱 Exploring **Next.js**
 - 💻 Working on a **Tourism Website**
 - 📚 Preparing for **Web Developer interviews**
+
+---
+<!-- ================== GitHub Streak ================== -->
+<p >
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jinnahakondo&theme=dark" />
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -72,4 +71,13 @@ Always eager to learn new technologies and improve my skills.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnahakondo&layout=compact&theme=dark" />
 </p>
+
+### 🔹 Current Overview
+MD Jinnah Akondo's Dev Card
+
+🔭 I’m working on – Programming Hero projects.  
+🌱 I’m exploring – Next.js, React, and modern web technologies.  
+👯 I’m looking to – Collaborate on open source web development projects.  
+🤔 I’m trying to – Help people learn web development and improve their skills.  
+⚡ Fun fact – I love building creative projects and experimenting with new UI/UX designs.
 
