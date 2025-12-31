@@ -36,17 +36,17 @@
 <!-- ================== Skills ================== -->
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,daisyui,swiper" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend / API
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,axios,jwt" />
 </p>
 
-### 🛠️ Tools
+### 🎨 Animations & Effects
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=framer" />
 </p>
 
 ---
