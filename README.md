@@ -6,7 +6,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=00F5C4&center=true&vCenter=true&width=750&lines=🚀+Building+scalable+MERN+stack+applications;⚛️+React+·+Next.js+·+Node.js+·+MongoDB;🔐+Firebase+·+NextAuth+·+TypeScript;🌍+Open+for+collaborations+%26+freelance+work;💡+Turning+complex+problems+into+clean+code)](https://github.com/jinnahakondo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+scalable+MERN+stack+applications;%E2%9A%9B%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;%F0%9F%94%90+Firebase+%C2%B7+NextAuth+%C2%B7+TypeScript;%F0%9F%8C%8D+Open+for+collaborations+%26+freelance+work;%F0%9F%92%A1+Turning+complex+problems+into+clean+code&color=58A6FF&background=FFFFFF00)](https://github.com/jinnahakondo)
 
 <!-- ═══════════════════ BADGES ROW ═══════════════════ -->
 <br/>
