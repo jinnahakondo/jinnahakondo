@@ -96,8 +96,8 @@ I'm always open to **collaborations**, **open-source contributions**, and helpin
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Working On** — A full-featured Tourism Website with Next.js
-- 🌱 **Learning** — Next.js 14, TypeScript, System Design
+- 🔭 **Working On** — A full-featured Ecommerce Website with Next.js & TS
+- 🌱 **Learning** — Next.js 16+, TypeScript, System Design
 - 👯 **Looking For** — Open-source collaborators & freelance projects
 - 🤝 **Mission** — Help others learn modern web development
 - ⚡ **Fun Fact** — I redesign UIs just for the challenge
