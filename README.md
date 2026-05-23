@@ -104,7 +104,7 @@ I'm always open to **collaborations**, **open-source contributions**, and helpin
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<!-- ═══════════════════ CONNECT ══════════════════=═ -->
 
 ## 🔗 Let's Connect
 
