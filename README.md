@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════  -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A3D6B,60:00F5C4,100:0D1117&height=240&section=header&text=MD%20Jinnah%20Akondo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=⚡%20MERN%20Stack%20%7C%20Full%20Stack%20Developer%20%7C%20Bangladesh%20🇧🇩&descAlignY=64&descSize=16&descColor=00F5C4" width="100%"/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
